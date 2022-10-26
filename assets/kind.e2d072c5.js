@@ -1,0 +1,1 @@
+import{v as r}from"./index.25338a1d.js";function o(){return r.get("/pro/categorylist")}function e(t){return r.get("/pro/categorybrandlist",{params:t})}function n(t){return r.get("/pro/categorybrandprolist",{params:t})}export{e as a,n as b,o as g};
